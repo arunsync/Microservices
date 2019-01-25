@@ -1,6 +1,7 @@
 # Microservices
 
 What is microservice - It is a self contained process which avails differend and unique business capabilities.
+Microservices, aka Microservice Architecture, is an architectural style that structures an application as a collection of small autonomous services, modeled around a business domain.
 
 Monolithic architecture
 Adv :
